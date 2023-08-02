@@ -47,12 +47,3 @@ int main(){
     printSolution(graph,n);
 }
 
-
-
-int main(){
-    int hjyfj;
-    for(int i=0;i<7;i++){
-        cout<<"uyfjytds";
-    }
-
-}
